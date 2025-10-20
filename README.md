@@ -1,8 +1,5 @@
 # Privacy Policy - Playwright POM Generator
 
-**Last Updated:** October 20, 2025  
-**Extension Version:** 1.0.7  
-**Policy Version:** 1.1
 
 ---
 
